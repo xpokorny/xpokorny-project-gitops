@@ -1,0 +1,8 @@
+apiVersion: polyfea.github.io/v1alpha1
+kind: MicroFrontend
+metadata:
+  name: xpokorny-project-ufe
+spec:
+  frontendClass: md-shell # default obsiahnutý v základe polyfea md-shell
+  service: http://xpokorny-project-ufe.wac-hospital # referencia na službu odkiaľ sa má načítať modul
+  modulePath: build/xpokorny-project-ufe.esm.js # cesta v rámci služby kde sa modul nachádza
