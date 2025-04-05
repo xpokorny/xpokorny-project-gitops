@@ -3,5 +3,5 @@ kind: Component
 
 images:
 - name: xpokorny/xpokorny-project-ufe
-  newName: xpokorny/xpokorny-project-ufe # {"$imagepolicy":  "wac-hospital:pokorny-project-ufe:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:pokorny-project-ufe:tag"}
+  newName: xpokorny/xpokorny-project-ufe # {"$imagepolicy":  "wac-hospital:xpokorny-project-ufe:name"}
+  newTag: main # {"$imagepolicy": "wac-hospital:xpokorny-project-ufe:tag"}
