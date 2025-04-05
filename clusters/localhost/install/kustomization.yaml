@@ -9,3 +9,6 @@ labels:
 
 resources:
 - ../../../apps/xpokorny-project-ufe
+
+components:
+- ../../../components/version-developers
